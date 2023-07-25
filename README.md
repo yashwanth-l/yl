@@ -14,11 +14,41 @@ Sr. DevOps Enginner
 
 ### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Present
 
+#### Consultant - Einer für Alle - Freie Hansestadt Bremen (EFA-FHB)
+
+- Provided support to team members on workflow on Github using Actions.
+- Assisted in configuring the pipeline changes to adhere to security standards.
+
+**Skills:** Kubernetes · Docker · Git · GitHub Actions · Microsoft Azure
+
+#### Consultant - St1 Nordic Oy
+
+- Designed & implemented CICD infra with Github Actions in collaboration with migration from Bitbucket to Github.
+- Supporting in adaption to Git workflow using Github Actions.
+- Configured pipeline with  Github Actions & Cloud Deploy
+- Conducted thorough testing & troubleshooting for a smooth transition.
+- Leveraged Terraform for provisioning GCP resources with reusable modules for consistency across projects.
+- Collaborated on a Proof-of-Concept assessment of ArgoCD.
+
+**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD
+
+#### Consultant - Integrierte Software Berliner Jugendhilfe (ISBJ)
+
+- Successfully led & assisted the in migration of code from Bitbucket to Azure DevOps, ensuring seamless transition and minimal disruption.
+- Implemented best practices for version control and branching strategies in Azure DevOps, enabling for better collaboration & code management.
+- Configured & optimized Azure DevOps Pipelines for different types of applications, to enhance the overall CI/CD process with implementation of automated testing and quality checks to ensure code quality & reliability.
+
+**Skills:** Kubernetes · Docker · Git · Microsoft Azure · Azure DevOps
+
+#### Consultant - T-Mobile
+
 - Extensively worked on moving the Helm Charts for various uses into a parent and sub-charts.
 - Migrated existing CICD to a GitOps methodology with FluxCD and progressive delivery using Flagger by using different strategies.
 - Migration of Infrastructure created in AWS to Terraform and using Gitlab and orchestrating using Terragrunt in the CI/CD.
 - Integrated Vault Secrets using the Secrets Store CSI Driver.
 - Migration from APIGEE Gateway to InHouse Edge Gateway, built with Gloo Edge
+
+**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · API Gateways · Amazon Web Services (AWS) · Gitlab · FluxCD · Flagger
 
 ### DevOps Engineer | Jochen Schweizer mydays Group | Full Time | May 2021 - Aug 2022
 
@@ -30,6 +60,8 @@ Sr. DevOps Enginner
 - Monitoring, alerting solutions using DataDog, AWS CloudWatch, Jaeger, AWS OpenSearch.
 - Working with Apache Kafka(AWS MSK).
 
+**Skills:** Kubernetes · Istio · Docker · Python · Terraform · Prometheus · Grafana · Git · API Gateways · Amazon Web Services (AWS) · Bitbucket · AWS Lambda · Gitlab · FluxCD · Flagger
+
 ### Sr. DevOps Engineer | T-Mobile USA | Contract (via Prokarma) | Nov 2020 - Aug 2021
 
 - Have designed multiple deployment pipelines for Mobile (iOS App, Cocoapods) and Java based projects.
@@ -38,6 +70,8 @@ Sr. DevOps Enginner
 - Used Apigee as an API Gateway for APIs transformation, multiple authentication mechanisms with authN/authZ, policies.
 - Worked on Istio an open source platform to connect, manage, and secure Microservices.
 
+**Skills:** Kubernetes · Istio · Docker · Prometheus · Grafana · Git · Apigee · API Gateways · Amazon Web Services (AWS) · InfluxDB · Appdynamics · AWS Lambda · Gitlab
+
 ### DevOps/Platform Engineer | T-Mobile USA | Contract (via Prokarma) | June 2019 - Nov 2020
 
 - Creating fully automated CI build and deployment infrastructure and processes for a dedicated project, with various Gating mechanisms using macOS, Jenkins, Artifactory, & GitLab, XCode, fastlane
@@ -45,11 +79,15 @@ Sr. DevOps Enginner
 - Working closely with Architecture, Development, Test, Security and IT Services teams.
 - Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools.
 
+**Skills:** Kubernetes · Docker · Python · Prometheus · Grafana · Git · Jenkins · Apigee · Pivotal Cloud Foundry (PCF) · Amazon Web Services (AWS) · InfluxDB · Bitbucket · Appdynamics · Gitlab
+
 ### Build & Release Engineer | T-Mobile USA | Contract (via Amdocs) | July 2018 - May 2019
 
 - Experience with Kubernetes to managing, creating configMaps, secrets and externalizing Configurations using Consul or Spring Config Server and various other manifests Deployment, StatefulSets, Service, Ingress using helm.
 - Created a Continuous Delivery process to include support building of Docker Images and publish into a private repository hosted OnPrem or Cloud.
 - Provided guidance to development regarding effective Microservices architectures in Hybrid Cloud.
+
+**Skills:** Ansible · Docker · Python · Git · Jenkins · Apigee · Pivotal Cloud Foundry (PCF) · Amazon Web Services (AWS) · Bitbucket · Appdynamics
 
 ### DevOps Engineer | T-Mobile USA | Contract (via Amdocs) | Mar 2017 - June 2018
 
@@ -58,6 +96,8 @@ Sr. DevOps Enginner
 - Automate application packaging using Docker.
 - Implementing monitoring and reporting solutions using Splunk and Appdynamics
 - Familiar with tools like Jenkins, Git, SVN, Bitbucket, Artifactory.
+
+**Skills:** Git · Jenkins · Apigee · Bitbucket · Appdynamics
 
 ### Technology Integration Engineer | T-Mobile USA | Contract (via Amdocs) | Sept. 2015 - Feb 2017
 
@@ -113,7 +153,7 @@ Appdynamics, Splunk, Networking, Load Balancing, fastlane, iOS, Linux,
 Cloud Computing, Terraform, AWS, Microsoft Azure, Google Cloud, Azure
 DevOps, Spring Framework, Python, Shell, APIGEE, Microservices,
 Authentication, Authorization, TCP/IP, Observability, oathkeeper, hydra,
-datadog, GitOps(flux)
+datadog, FluxCD, Flagger, Argo(CD, Rollouts)
 
 ---
 
