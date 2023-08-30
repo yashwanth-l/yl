@@ -1,6 +1,14 @@
 # Yashwanth Lakkaraju! 👋
 
-Sr. DevOps Enginner
+## Sr. DevOps Engineer
+
+---
+
+📌 🇩🇪
+
+🌐 🇮🇳 ➡️ 🇺🇲 ➡️ 🇩🇪
+
+Learner | Engineer | Techie | Medium Addict
 
 ---
 
@@ -14,6 +22,15 @@ Sr. DevOps Enginner
 
 ### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Present
 
+#### Consultant - Onlinezugangsgesetz (OZG)
+
+- Assisting in Configuring GitLab, Nexus Artifactory, and SonarQube for secure code management, storage and vulnerability detection.
+- Implemented automation for reliability, security.
+- Integrated SonarQube with CI / CD pipeline, custom quality gates, and deployment to self-hosted Kubernetes.
+- Orchestrated end-to-end workflow: build, test, analysis, Nexus, deployment to Kubernetes.
+
+**Skills:** Kubernetes · Docker · Git · Gitlab · Nexus · SonarQube · Jenkins
+
 #### Consultant - Einer für Alle - Freie Hansestadt Bremen (EFA-FHB)
 
 - Provided support to team members on workflow on Github using Actions.
@@ -23,8 +40,7 @@ Sr. DevOps Enginner
 
 #### Consultant - St1 Nordic Oy
 
-- Designed & implemented CICD infra with Github Actions in collaboration with migration from Bitbucket to Github.
-- Supporting in adaption to Git workflow using Github Actions.
+- Implementation of CI / CD based shared workflows and shared actions with Github Actions in collaboration with migration from Bitbucket to Github.
 - Configured pipeline with  Github Actions & Cloud Deploy
 - Conducted thorough testing & troubleshooting for a smooth transition.
 - Leveraged Terraform for provisioning GCP resources with reusable modules for consistency across projects.
@@ -43,8 +59,8 @@ Sr. DevOps Enginner
 #### Consultant - T-Mobile
 
 - Extensively worked on moving the Helm Charts for various uses into a parent and sub-charts.
-- Migrated existing CICD to a GitOps methodology with FluxCD and progressive delivery using Flagger by using different strategies.
-- Migration of Infrastructure created in AWS to Terraform and using Gitlab and orchestrating using Terragrunt in the CI/CD.
+- Migrated existing CI / CD to a GitOps methodology with FluxCD and progressive delivery using Flagger by using different strategies.
+- Migration of Infrastructure created in AWS to Terraform and using Gitlab and orchestrating using Terragrunt in the CI / CD.
 - Integrated Vault Secrets using the Secrets Store CSI Driver.
 - Migration from APIGEE Gateway to InHouse Edge Gateway, built with Gloo Edge
 
@@ -53,7 +69,7 @@ Sr. DevOps Enginner
 ### DevOps Engineer | Jochen Schweizer mydays Group | Full Time | May 2021 - Aug 2022
 
 - Build and maintain cloud environment using Infrastructure as Code(IaC) like Terraform.
-- Building CI/CD with Bitbucket-Jenkins and GitLab(SaaS).
+- Building CI / CD with Bitbucket-Jenkins and GitLab(SaaS).
 - Implementing GitOps using FluxCD for deployment through Helm(v3).
 - Using Azure AD, AWS Cognito, Oathkeeper, Hydra for implementing authN/authZ integrated with Gateway's(Istio).
 - Basic level of programming skills with Golang.
