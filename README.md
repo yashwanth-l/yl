@@ -173,6 +173,10 @@ DevOps, Spring Framework, Python, Shell, APIGEE, Microservices,
 Authentication, Authorization, TCP/IP, Observability, oathkeeper, hydra,
 datadog, FluxCD, Flagger, Argo(CD, Rollouts)
 
+### Certifications
+
+- Certified Kubernetes Administrator (CKA) - 2024-2026
+
 ---
 
 <a href="https://github.com/yashwanth-l/">
