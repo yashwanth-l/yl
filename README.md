@@ -22,6 +22,17 @@ Learner | Engineer | Techie | Medium Addict
 
 ### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Present
 
+#### Consultant - St1 Nordic Oy
+
+- Implementation of CI / CD based shared workflows and shared actions with Github Actions in collaboration with migration from Bitbucket to Github.
+- Configured pipeline with  Github Actions & Cloud Deploy
+- Conducted thorough testing & troubleshooting for a smooth transition.
+- Leveraged Terraform for provisioning GCP resources with reusable modules for consistency across projects.
+- Collaborated on a Proof-of-Concept assessment of ArgoCD and FluxCD.
+- Introduction of Flux, as the GitOps tool, for the rollout of Infra Workloads to GKE using GitHub, Cloud Build.
+
+**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD · FluxCD
+
 #### Consultant - Onlinezugangsgesetz (OZG)
 
 - Assisting in Configuring GitLab, Nexus Artifactory, and SonarQube for secure code management, storage and vulnerability detection.
@@ -37,16 +48,6 @@ Learner | Engineer | Techie | Medium Addict
 - Assisted in configuring the pipeline changes to adhere to security standards.
 
 **Skills:** Kubernetes · Docker · Git · GitHub Actions · Microsoft Azure
-
-#### Consultant - St1 Nordic Oy
-
-- Implementation of CI / CD based shared workflows and shared actions with Github Actions in collaboration with migration from Bitbucket to Github.
-- Configured pipeline with  Github Actions & Cloud Deploy
-- Conducted thorough testing & troubleshooting for a smooth transition.
-- Leveraged Terraform for provisioning GCP resources with reusable modules for consistency across projects.
-- Collaborated on a Proof-of-Concept assessment of ArgoCD.
-
-**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD
 
 #### Consultant - Integrierte Software Berliner Jugendhilfe (ISBJ)
 
