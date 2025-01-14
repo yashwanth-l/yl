@@ -30,6 +30,7 @@ Learner | Engineer | Techie | Medium Addict
 - Leveraged Terraform for provisioning GCP resources with reusable modules for consistency across projects.
 - Collaborated on a Proof-of-Concept assessment of ArgoCD and FluxCD.
 - Introduction of Flux, as the GitOps tool, for the rollout of Infra Workloads to GKE using GitHub, Cloud Build.
+- Lead the organization in the implementation of Observability(o11y) including Application Monitoring, Logging Standards, Traceability.
 
 **Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD · FluxCD
 
