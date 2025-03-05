@@ -34,7 +34,7 @@ Learner | Engineer | Techie | Medium Addict
 - Improves solution quality.
 - Leads small team planning.
 
-**Skills:** Cloud Architecture · Microsoft Azure · Google Cloud Platform (GCP) · Container Orchestration · Infrastructure-as-Code(IaC) · Observability(o11y) · Continuous Integration(CI) and Continuous Delivery · GitOps · API Gateways · Gateway API · Documentation-as-Code
+**Skills:** Cloud Architecture · Microsoft Azure · Google Cloud Platform (GCP) · Container Orchestration · Infrastructure-as-Code(IaC) · Observability(o11y) · Continuous Integration(CI) and Continuous Delivery(CD) · GitOps · API Gateways · Gateway API · Documentation-as-Code · Zero Trust Security
 
 ### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Jan 2025
 
