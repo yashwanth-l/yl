@@ -20,7 +20,25 @@ Learner | Engineer | Techie | Medium Addict
 
 ## Berufliche Laufbahn / Professional Career 👨‍💻
 
-### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Present
+### Principal / Cloud Architect - DevSecOps | Nortal AG | Full Time | Jan 2025 – Present
+
+#### Consultant - St1 Nordic Oy
+
+- Documents infra, systems, and concepts.
+- Analyzes flows, interactions, and costs.
+- Designs and automates infra, security, testing.
+- Defines DevSecOps adoption across tech stacks.
+- Builds cloud solutions, balancing cost/performance.
+- Advises on new tech adoption.
+- Implements security best practices.
+- Creates architecture artifacts (Diagrams, ADRs).
+- Evaluates tools, frameworks, and architectures.
+- Improves solution quality.
+- Leads small team planning.
+
+**Skills:** Cloud Architecture · Microsoft Azure · Google Cloud Platform (GCP) · Container Orchestration · Infrastructure-as-Code(IaC) · Observability(o11y) · Continuous Integration(CI) and Continuous Delivery · GitOps · API Gateways · Gateway API · Documentation-as-Code
+
+### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Jan 2025
 
 #### Consultant - St1 Nordic Oy
 
@@ -32,7 +50,7 @@ Learner | Engineer | Techie | Medium Addict
 - Introduction of Flux, as the GitOps tool, for the rollout of Infra Workloads to GKE using GitHub, Cloud Build.
 - Lead the organization in the implementation of Observability(o11y) including Application Monitoring, Logging Standards, Traceability.
 
-**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD · FluxCD
+**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD · FluxCD
 
 #### Consultant - Onlinezugangsgesetz (OZG)
 
