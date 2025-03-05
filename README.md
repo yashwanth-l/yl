@@ -1,12 +1,10 @@
 # Yashwanth Lakkaraju! 👋
 
-## Sr. DevOps Engineer
+## DevSecOps - Principal / Cloud Architect
 
 ---
 
 📌 🇩🇪
-
-🌐 🇮🇳 ➡️ 🇺🇲 ➡️ 🇩🇪
 
 Learner | Engineer | Techie | Medium Addict
 
