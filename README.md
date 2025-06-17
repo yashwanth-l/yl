@@ -6,7 +6,7 @@
 
 📌 🇩🇪
 
-Learner | Engineer | Techie | Medium Addict
+Learner | Engineer | Techie | Nethead
 
 ---
 
@@ -18,9 +18,17 @@ Learner | Engineer | Techie | Medium Addict
 
 ## Berufliche Laufbahn / Professional Career 👨‍💻
 
-### Principal / Cloud Architect - DevSecOps | Nortal AG | Full Time | Jan 2025 – Present
+### Nortal AG
 
-#### Consultant - St1 Nordic Oy
+#### Principal / Cloud Architect - DevSecOps | Full Time
+
+##### GStU | Jul 2025 – Present
+
+- TBD
+
+**Skills:** Kubernetes · Docker · Azure DevOps · Azure · ArgoCD
+
+##### St1 Nordic Oy | Feb 2025 - Jun 2025
 
 - Documents infra, systems, and concepts.
 - Analyzes flows, interactions, and costs.
@@ -36,21 +44,31 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Cloud Architecture · Microsoft Azure · Google Cloud Platform (GCP) · Container Orchestration · Infrastructure-as-Code(IaC) · Observability(o11y) · Continuous Integration(CI) and Continuous Delivery(CD) · GitOps · API Gateways · Gateway API · Documentation-as-Code · Zero Trust Security
 
-### Senior DevOps Engineer | Nortal AG | Full Time | Sept 2022 – Jan 2025
+##### IT.N KI | Mar 2025 – April 2025
 
-#### Consultant - St1 Nordic Oy
+- Supporting the Team with Spinning new Environment.
+- Deploying the Cloud Infrastructure at IONOS Cloud using IaC (Terraform).
+- Deploying the Kubernetes workloads using GitOps (ArgoCD) Methodology.
+- Optimizing the workloads for costs.
+- Assisting the teams with various ad-hoc queries.
+
+**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · IONOS Cloud · Gitlab · ArgoCD
+
+#### Senior DevOps Engineer | Full Time
+
+##### St1 Nordic Oy | Sept 2022 – Jan 2023
 
 - Implementation of CI / CD based shared workflows and shared actions with Github Actions in collaboration with migration from Bitbucket to Github.
 - Configured pipeline with  Github Actions & Cloud Deploy
 - Conducted thorough testing & troubleshooting for a smooth transition.
-- Leveraged Terraform for provisioning GCP resources with reusable modules for consistency across projects.
+- Leveraged Terraform for provisioning GCP resources reusable modules for consistency across projects.
 - Collaborated on a Proof-of-Concept assessment of ArgoCD and FluxCD.
 - Introduction of Flux, as the GitOps tool, for the rollout of Infra Workloads to GKE using GitHub, Cloud Build.
 - Lead the organization in the implementation of Observability(o11y) including Application Monitoring, Logging Standards, Traceability.
 
 **Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Google Cloud Platform (GCP) · Bitbucket · GitHub Actions · ArgoCD · FluxCD
 
-#### Consultant - Onlinezugangsgesetz (OZG)
+##### Onlinezugangsgesetz (OZG) | Jun 2023 - Jul 2023
 
 - Assisting in Configuring GitLab, Nexus Artifactory, and SonarQube for secure code management, storage and vulnerability detection.
 - Implemented automation for reliability, security.
@@ -59,14 +77,14 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Kubernetes · Docker · Git · Gitlab · Nexus · SonarQube · Jenkins
 
-#### Consultant - Einer für Alle - Freie Hansestadt Bremen (EFA-FHB)
+##### Einer für Alle - Freie Hansestadt Bremen (EFA-FHB) | May 2023 - Jun 2023
 
 - Provided support to team members on workflow on Github using Actions.
 - Assisted in configuring the pipeline changes to adhere to security standards.
 
 **Skills:** Kubernetes · Docker · Git · GitHub Actions · Microsoft Azure
 
-#### Consultant - Integrierte Software Berliner Jugendhilfe (ISBJ)
+##### Integrierte Software Berliner Jugendhilfe (ISBJ) | Apr 2023 - May 2023
 
 - Successfully led & assisted the in migration of code from Bitbucket to Azure DevOps, ensuring seamless transition and minimal disruption.
 - Implemented best practices for version control and branching strategies in Azure DevOps, enabling for better collaboration & code management.
@@ -74,7 +92,7 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Kubernetes · Docker · Git · Microsoft Azure · Azure DevOps
 
-#### Consultant - T-Mobile
+##### T-Mobile | Sep 2022 - Mar 2023
 
 - Extensively worked on moving the Helm Charts for various uses into a parent and sub-charts.
 - Migrated existing CI / CD to a GitOps methodology with FluxCD and progressive delivery using Flagger by using different strategies.
@@ -84,7 +102,9 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · Git · API Gateways · Amazon Web Services (AWS) · Gitlab · FluxCD · Flagger
 
-### DevOps Engineer | Jochen Schweizer mydays Group | Full Time | May 2021 - Aug 2022
+### Jochen Schweizer mydays Group
+
+#### DevOps Engineer | Full Time | May 2021 - Aug 2022
 
 - Build and maintain cloud environment using Infrastructure as Code(IaC) like Terraform.
 - Building CI / CD with Bitbucket-Jenkins and GitLab(SaaS).
@@ -96,7 +116,9 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Kubernetes · Istio · Docker · Python · Terraform · Prometheus · Grafana · Git · API Gateways · Amazon Web Services (AWS) · Bitbucket · AWS Lambda · Gitlab · FluxCD · Flagger
 
-### Sr. DevOps Engineer | T-Mobile USA | Contract (via Prokarma) | Nov 2020 - Aug 2021
+### T-Mobile USA
+
+#### Sr. DevOps Engineer | Contract via Prokarma | Nov 2020 - Aug 2021
 
 - Have designed multiple deployment pipelines for Mobile (iOS App, Cocoapods) and Java based projects.
 - Experience with iOS SDKs for developers with software debugging techniques.
@@ -106,7 +128,7 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Kubernetes · Istio · Docker · Prometheus · Grafana · Git · Apigee · API Gateways · Amazon Web Services (AWS) · InfluxDB · Appdynamics · AWS Lambda · Gitlab
 
-### DevOps/Platform Engineer | T-Mobile USA | Contract (via Prokarma) | June 2019 - Nov 2020
+#### DevOps/Platform Engineer | Contract via Prokarma | June 2019 - Nov 2020
 
 - Creating fully automated CI build and deployment infrastructure and processes for a dedicated project, with various Gating mechanisms using macOS, Jenkins, Artifactory, & GitLab, XCode, fastlane
 - Supporting Development and Testing Teams and their pipelines; distributed Jenkins XCode, fastlane.
@@ -115,7 +137,7 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Kubernetes · Docker · Python · Prometheus · Grafana · Git · Jenkins · Apigee · Pivotal Cloud Foundry (PCF) · Amazon Web Services (AWS) · InfluxDB · Bitbucket · Appdynamics · Gitlab
 
-### Build & Release Engineer | T-Mobile USA | Contract (via Amdocs) | July 2018 - May 2019
+#### Build & Release Engineer | Contract via Amdocs | July 2018 - May 2019
 
 - Experience with Kubernetes to managing, creating configMaps, secrets and externalizing Configurations using Consul or Spring Config Server and various other manifests Deployment, StatefulSets, Service, Ingress using helm.
 - Created a Continuous Delivery process to include support building of Docker Images and publish into a private repository hosted OnPrem or Cloud.
@@ -123,7 +145,7 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Ansible · Docker · Python · Git · Jenkins · Apigee · Pivotal Cloud Foundry (PCF) · Amazon Web Services (AWS) · Bitbucket · Appdynamics
 
-### DevOps Engineer | T-Mobile USA | Contract (via Amdocs) | Mar 2017 - June 2018
+#### DevOps Engineer | Contract via Amdocs | Mar 2017 - June 2018
 
 - Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools.
 - Participate in various sessions for moving the On-Prem Infrastructure to the Cloud (AWS) and automate for cost reduction using tools like Ansible and for Configuration Management.
@@ -133,13 +155,15 @@ Learner | Engineer | Techie | Medium Addict
 
 **Skills:** Git · Jenkins · Apigee · Bitbucket · Appdynamics
 
-### Technology Integration Engineer | T-Mobile USA | Contract (via Amdocs) | Sept. 2015 - Feb 2017
+##### Technology Integration Engineer | Contract via Amdocs | Sept. 2015 - Feb 2017
 
 - Primarily responsible for application deployment, authentication and DS integration.
 - Provide end-user support for professional workstations/servers on Solaris, OEL, AIX systems.
 - Responsible for all aspects of production application support
 - Responsible for design, management, and continuous improvement of Middleware Services.
 - Performed root-cause analysis for production outages and provided management with analysis reports.
+
+**Skills:** Windows · Linux · Solaris · AIX · Weblogic · Websphere · Tomcat · Apache · Oracle · Jenkins · Git · Bitbucket · Artifactory
 
 ---
 
