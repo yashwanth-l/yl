@@ -206,9 +206,13 @@ Learner | Engineer | Techie | Nethead
 
 ### Ottawa University, USA
 
+#### MBA - Organizational Leadership
+
 - **Zeitabschnitt / Period:** June 2020 - May 2021
 - **Schwerpunkt / Focus:**  Organizational Leadership
 - **Abschluss / Degree:** Master of Business Administration - MBA
+
+#### MBA - Information Technology
 
 - **Zeitabschnitt / Period:** June 2018 - May 2020
 - **Schwerpunkt / Focus:**  Information Technology
