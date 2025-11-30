@@ -14,6 +14,8 @@ Learner | Engineer | Techie | Nethead
 
 **I'm excited about the DevOps field because it allows me to combine my passion for technology & automation with my strong collaboration and problem-solving skills. I've always been drawn to the DevOps philosophy of breaking down silos and improving communication between development and operations teams, and I'm eager to continue learning and growing in this field.**
 
+**Core Expertise:** Cloud solutions design & automation (infra, security, testing) • DevSecOps adoption across tech stacks • Flow & interaction analysis • Cost/performance optimization • Architecture artifacts (Diagrams, ADRs) & documentation • Tools, frameworks & architecture evaluation • Tech adoption advisory • Security best practices implementation • Solution quality improvement • Team planning & leadership.
+
 ---
 
 ## Berufliche Laufbahn / Professional Career 👨‍💻
@@ -22,25 +24,58 @@ Learner | Engineer | Techie | Nethead
 
 #### Principal / Cloud Architect - DevSecOps | Full Time
 
+##### X-Road Schleswig-Holstein | January 2026 – Present
+
+- TBW
+
+**Skills:** IONOS Cloud · Kubernetes · Docker · OpenCode · Terraform · ArgoCD · CICD · Traefik Proxy · GitOps · X-Road
+
+##### GStU-DWH | Jul 2025 – Present
+
+- Implementing Infrastructure-as-Code (Terraform) at StackIT Cloud.
+- Implementing GitOps (ArgoCD) strategy for the deployment of the Kubernetes workloads.
+- Building Data Pipelines using AirFlow and Superset.
+- Implementing best practices for the application development.
+- Supporting the team with various ad-hoc queries and being a subject matter expert for the team.
+
+**Skills:** StackIT Cloud · Azure Entra ID · Kubernetes · Docker · AirFlow · Superset · ArgoCD · CICD · Traefik Proxy · Gateway API · GitOps · Terraform
+
+##### NLGA/IT.N Chatbot | Jul 2025 – Present
+
+- Implementing multi-tenant architecture for the chatbot using Keycloak for authentication and authorization.
+- Preparing & improving best security practices for the delivery of the application.
+- Adding OWASP security controls at the CI/CD Pipeline.
+- Implementing best practices for the application development.
+
+**Skills:** IONOS Cloud · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy · GitOps · Terraform · Keycloak
+
+##### Integrierte Software Berliner Jugendhilfe (ISBJ) | Jul 2025 – Present
+
+- Migrating the existing infrastructure to full automation using IaC (Terraform) and GitOps (ArgoCD) strategy.
+- Customizing the CI/CD Pipelines.
+- Improving the overall solution quality.
+- Suggesting and implementing best practices for the team.
+- Providing training and guidance to the team.
+
+**Skills:** Microsoft Azure · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy · GitOps · Terraform
+
 ##### GStU | Jul 2025 – Present
 
-- TBD
+- Assisting in set-up and further development of the additional environments.
+- Upgrade AKS Clusters with utmost security.
+- Migrate current workloads for Infra and Applications to GitOps (ArgoCD) strategy with Kustomize and Helm Charts.
+- Customizing the CI/CD Pipelines.
+- Migrating manually created Azure Infrastructure to Infrastructure-as-Code (Terraform)
 
-**Skills:** Kubernetes · Docker · Azure DevOps · Azure · ArgoCD
+**Skills:** Microsoft Azure · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy
 
 ##### St1 Nordic Oy | Feb 2025 - Jun 2025
 
-- Documents infra, systems, and concepts.
-- Analyzes flows, interactions, and costs.
-- Designs and automates infra, security, testing.
-- Defines DevSecOps adoption across tech stacks.
-- Builds cloud solutions, balancing cost/performance.
-- Advises on new tech adoption.
-- Implements security best practices.
-- Creates architecture artifacts (Diagrams, ADRs).
-- Evaluates tools, frameworks, and architectures.
-- Improves solution quality.
-- Leads small team planning.
+- Tuning the Github Actions — Shared Workflows & Shared Actions.
+- Implementing best practices for the application development.
+- Creating Kustomize components for the infrastructure rollouts.
+- Assisting in migrating the to Elastic Cloud Platform.
+- Documenting the infrastructure, systems, and concepts.
 
 **Skills:** Cloud Architecture · Microsoft Azure · Google Cloud Platform (GCP) · Container Orchestration · Infrastructure-as-Code(IaC) · Observability(o11y) · Continuous Integration(CI) and Continuous Delivery(CD) · GitOps · API Gateways · Gateway API · Documentation-as-Code · Zero Trust Security
 
@@ -52,7 +87,7 @@ Learner | Engineer | Techie | Nethead
 - Optimizing the workloads for costs.
 - Assisting the teams with various ad-hoc queries.
 
-**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · IONOS Cloud · Gitlab · ArgoCD
+**Skills:** Kubernetes · Docker · Terraform · Prometheus · Grafana · IONOS Cloud · Gitlab · ArgoCD · Traefik Proxy
 
 #### Senior DevOps Engineer | Full Time
 
@@ -208,10 +243,11 @@ Docker, Pipeline as Code, Infrastructure as Code, Continuous Integration,
 Continuous Delivery, Continuous Testing, Git, GitLab, Jenkins,
 Deployment, Red Hat Ansible, Prometheus.io, Grafana, InfluxDB,
 Appdynamics, Splunk, Networking, Load Balancing, fastlane, iOS, Linux,
-Cloud Computing, Terraform, AWS, Microsoft Azure, Google Cloud, Azure
-DevOps, Spring Framework, Python, Shell, APIGEE, Microservices,
+Cloud Computing, Terraform, AWS, Microsoft Azure, Google Cloud, IONOS Cloud, StackIT Cloud,
+Azure DevOps, Spring Framework, Python, Shell, APIGEE, Microservices,
 Authentication, Authorization, TCP/IP, Observability, oathkeeper, hydra,
-datadog, FluxCD, Flagger, Argo(CD, Rollouts)
+datadog, FluxCD, Flagger, Argo(CD, Rollouts), Keycloak, Opencode, X-Road,
+AirFlow, Superset, Gateway API, GitOps, Traefik Proxy,
 
 ### Certifications
 
