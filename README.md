@@ -14,7 +14,7 @@ Learner | Engineer | Techie | Nethead
 
 **I'm excited about the DevOps field because it allows me to combine my passion for technology & automation with my strong collaboration and problem-solving skills. I've always been drawn to the DevOps philosophy of breaking down silos and improving communication between development and operations teams, and I'm eager to continue learning and growing in this field.**
 
-**Core Expertise:** Cloud solutions design & automation (infra, security, testing) • DevSecOps adoption across tech stacks • Flow & interaction analysis • Cost/performance optimization • Architecture artifacts (Diagrams, ADRs) & documentation • Tools, frameworks & architecture evaluation • Tech adoption advisory • Security best practices implementation • Solution quality improvement • Team planning & leadership.
+**Core Expertise:** Cloud solutions design & automation (infra, security, testing) • DevSecOps adoption across tech stacks • Flow & interaction analysis • Cost/performance optimization • Architecture artifacts (Diagrams, ADRs) & documentation • Tools, frameworks & architecture evaluation • Tech adoption advisory • Security best practices implementation(Workload Identity, SPIFEE/SPIRE) • Solution quality improvement • Team planning & leadership.
 
 ---
 
@@ -24,11 +24,25 @@ Learner | Engineer | Techie | Nethead
 
 #### Principal / Cloud Architect - DevSecOps | Full Time
 
-##### X-Road Schleswig-Holstein | January 2026 – Present
+##### BMDS-Marktplatz | May 2026 – Present
 
-- TBW
+- Provisioning the full STACKIT footprint with the official STACKIT Terraform provider — managed Kubernetes (SKE), Flex PostgreSQL, DNS, networking, Secrets Manager, and compute — split into reusable, environment-agnostic modules.
+- Architecting zero-trust workload identity on Istio Ambient Mesh with SPIFFE/SPIRE and Keycloak-federated JWTs, replacing static service credentials with short-lived SVIDs across namespaces
+- Designing PostgreSQL backup/restore tooling
+- Hardening cluster ingress with Kong + Istio Mesh (north-south vs internal routing), JWT validation at the edge, and BSI-relevant logging through Loki.
+- Building the in-cluster platform on ArgoCD with Helm and Kustomize — Kong API Gateway, Istio service mesh, observability stack, External-Secrets Operator backed by STACKIT Secrets Manager, and NVIDIA GPU operator for AI workloads.
 
-**Skills:** IONOS Cloud · Kubernetes · Docker · OpenCode · Terraform · ArgoCD · CICD · Traefik Proxy · GitOps · X-Road
+**Skills:** StackIT Cloud · Kubernetes · Docker · ArgoCD · CICD · Gateway API · Kong API Gateway · Istio · GitOps · Terraform/OpenTofu · Gitlab · Zero Trust Security(SPIFEE/SPIRE) · Keycloak
+
+##### X-Road Schleswig-Holstein | December 2025 – Present
+
+- Designing and operating multi-tenant X-Road(Kubernetes and VM) infrastructure on IONOS Cloud, and a self-hosted (ACME/OCSP/TSA) for trust-anchor simulation.
+- Implementing Infrastructure-as-Code with Terraform across IONOS datacenter, networking (LAN/NSG), MariaDB VMs, monitoring, container registry, and Keyfactor PKI integration.
+- Building GitOps delivery on ArgoCD with Helm charts and Kustomize, structured around environment-scoped ApplicationSets and Secrets Management.
+- Codifying Fortigate firewall configuration via Terraform against the FortiOS provider, replacing manual web-UI changes with reviewable IaC.
+- Driving BSI Grundschutz alignment, and integration work for SH-ZIT.
+
+**Skills:** IONOS Cloud · Kubernetes · Docker · OpenCode · Terraform/OpenTofu · ArgoCD · CICD · Traefik Proxy · GitOps · X-Road · Fortigate(Fortinet) Firewall · Gitlab
 
 ##### GStU-DWH | Jul 2025 – Present
 
@@ -38,7 +52,7 @@ Learner | Engineer | Techie | Nethead
 - Implementing best practices for the application development.
 - Supporting the team with various ad-hoc queries and being a subject matter expert for the team.
 
-**Skills:** StackIT Cloud · Azure Entra ID · Kubernetes · Docker · AirFlow · Superset · ArgoCD · CICD · Traefik Proxy · Gateway API · GitOps · Terraform
+**Skills:** StackIT Cloud · Azure Entra ID · Authentik · Kubernetes · Docker · AirFlow · Superset · ArgoCD · CICD · Traefik Proxy · Gateway API · GitOps · Terraform/OpenTofu · Loki · Tempo · Prometheus · Grafana · Gitlab
 
 ##### NLGA/IT.N Chatbot | Jul 2025 – Present
 
@@ -47,7 +61,7 @@ Learner | Engineer | Techie | Nethead
 - Adding OWASP security controls at the CI/CD Pipeline.
 - Implementing best practices for the application development.
 
-**Skills:** IONOS Cloud · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy · GitOps · Terraform · Keycloak
+**Skills:** IONOS Cloud · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy · GitOps · Terraform · Keycloak · Gitlab
 
 ##### Integrierte Software Berliner Jugendhilfe (ISBJ) | Jul 2025 – Present
 
@@ -57,7 +71,7 @@ Learner | Engineer | Techie | Nethead
 - Suggesting and implementing best practices for the team.
 - Providing training and guidance to the team.
 
-**Skills:** Microsoft Azure · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy · GitOps · Terraform
+**Skills:** Microsoft Azure · Kubernetes · Docker · Azure DevOps · Azure · ArgoCD · CICD · Traefik Proxy · GitOps · Terraform/OpenTofu
 
 ##### GStU | Jul 2025 – Present
 
